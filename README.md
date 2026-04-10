@@ -2,7 +2,7 @@
   <img src="cover.jpg" alt="AI Voice & Audio — ElevenLabs" width="100%">
 </p>
 
-<h1 align="center">Day 4 — AI Voice & Audio</h1>
+<h1 align="center">Day 5 — AI Voice & Audio</h1>
 <p align="center">
   <strong>10 Days 10 Skills</strong> · Claude Code Course by <a href="https://bestguy.ai">Guy Aga</a>
 </p>
@@ -86,14 +86,14 @@ export ELEVEN_API_KEY=your-api-key-here
 Open Claude Code and paste:
 
 ```
-Install the ai-voice-audio skill from https://github.com/guyaga/10d10s-day04-voice-audio and help me set up my ElevenLabs API key for generating voice, music, and sound effects.
+Install the ai-voice-audio skill from https://github.com/guyaga/10d10s-day05-voice-audio and help me set up my ElevenLabs API key for generating voice, music, and sound effects.
 ```
 
 ### Manual Way
 
 ```bash
 cd ~/.claude/skills/
-git clone https://github.com/guyaga/10d10s-day04-voice-audio ai-voice-audio
+git clone https://github.com/guyaga/10d10s-day05-voice-audio ai-voice-audio
 ```
 
 ---
@@ -131,7 +131,7 @@ Generate a modern app notification chime sound, 2 seconds long.
 Save to D:/Audio/notification.mp3
 ```
 
-### Add Narration to Video (Day 3 + Day 4)
+### Add Narration to Video (Day 3 + Day 5)
 
 ```
 Generate a voiceover for this script, then add it to D:/Videos/product-demo.mp4:
@@ -193,7 +193,7 @@ For the best clone quality:
 - [ElevenLabs API Docs](https://elevenlabs.io/docs/api-reference)
 - [ElevenLabs Pricing](https://elevenlabs.io/pricing)
 - [Course Page — bestguy.ai](https://bestguy.ai/course/10-days-10-skills)
-- [HTML Skill Guide (Hebrew)](https://bestguy.ai/course/guides/day04-voice-audio.html)
+- [HTML Skill Guide (Hebrew)](https://bestguy.ai/course/guides/day05-voice-audio.html)
 
 ---
 
